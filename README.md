@@ -36,7 +36,7 @@ grid =
 
 solve()
 
-Output
+# Output
 
 • The solver prints the original Sudoku grid and its solutions, showcasing its ability to find possible solutions.
 
