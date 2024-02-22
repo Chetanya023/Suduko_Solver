@@ -12,7 +12,9 @@ Usage
 
 # Define the Sudoku grid (0 represents empty cells)
 
-grid = [[5,3,0,0,7,0,0,0,0],
+grid = 
+
+        [[5,3,0,0,7,0,0,0,0],
 
         [6,0,0,1,9,5,0,0,0],
         
