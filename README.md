@@ -40,7 +40,7 @@ solve()
 
 • The solver prints the original Sudoku grid and its solutions, showcasing its ability to find possible solutions.
 
-Features
+# Features
 
 • Backtracking algorithm for solving Sudoku puzzles.
 
